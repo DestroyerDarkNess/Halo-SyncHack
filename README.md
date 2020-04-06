@@ -6,6 +6,12 @@ It is a Loader for Halo Custom Edition.
 
 [ Attention ] - The game must be run in windowed mode. | To do this run the game with the Argument: (-window)
 
+[ How to use ]
+
+*1) Run HaloCE Loader Synchack.*
+
+*2) Open HaloCE in Window Mode.*
+
 Features :
         
         Cheat Loader:
