@@ -1,0 +1,12 @@
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\bin\Debug\HaloCrashManager.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\bin\Debug\HaloCrashManager.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\bin\Debug\HaloCrashManager.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\bin\Debug\HaloCrashManager.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.Main.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.About.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.Notify.resources
