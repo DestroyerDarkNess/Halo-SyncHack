@@ -11,3 +11,15 @@ c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloC
 c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Release\HaloCrashManager.xml
 c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Release\HaloCrashManager.pdb
 C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Release\HaloCrashManager.Notify.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\bin\Release\HaloCrashManager.exe.config
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Release\HaloCrashManager.exe
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Release\HaloCrashManager.xml
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Release\HaloCrashManager.pdb
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\bin\Release\HaloCrashManager.exe
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\bin\Release\HaloCrashManager.pdb
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\bin\Release\HaloCrashManager.xml
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Release\HaloCrashManager.About.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Release\HaloCrashManager.Notify.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Release\HaloCrashManager.Main.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Release\HaloCrashManager.Resources.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Release\HaloCrashManager.vbproj.GenerateResource.Cache

@@ -6,20 +6,7 @@ HaloCrashManager
 </name>
 </assembly>
 <members>
-<member name="P:HaloCrashManager.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:HaloCrashManager.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:HaloCrashManager.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="M:HaloCrashManager.SetWindowState.NativeMethods.FindWindow(System.String,System.String)">
+<member name="M:HaloCrashManager.SetWindowState.NativeMethods.FindWindow(System.String,System.String)">
 	<summary>
  Retrieves a handle to the top-level window whose class name and window name match the specified strings.
  This function does not search child windows.
@@ -176,6 +163,19 @@ HaloCrashManager
 	<summary>
  Sets the state of a window.
  </summary>
+</member><member name="P:HaloCrashManager.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HaloCrashManager.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HaloCrashManager.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>

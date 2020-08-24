@@ -10,3 +10,7 @@ c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloC
 c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.Main.resources
 c:\users\s4lsalsoft\documents\visual studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.About.resources
 C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\HaloCrashManager\HaloCrashManager\obj\Debug\HaloCrashManager.Notify.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\bin\Debug\HaloCrashManager.exe.config
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Debug\HaloCrashManager.exe
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Debug\HaloCrashManager.xml
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Debug\HaloCrashManager.pdb
