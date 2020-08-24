@@ -1,0 +1,11 @@
+﻿  Drawing.cpp
+C:\Users\Agustín\Documents\Halo Multihack\Halo Multihack\SysIncludes.h(9,10): fatal error C1083: No se puede abrir el archivo incluir: 'd3dx9.h': No such file or directory
+  Font.cpp
+C:\Users\Agustín\Documents\Halo Multihack\Halo Multihack\Font.cpp(8,10): fatal error C1083: No se puede abrir el archivo incluir: 'd3dx9.h': No such file or directory
+  Functions.cpp
+C:\Users\Agustín\Documents\Halo Multihack\Halo Multihack\SysIncludes.h(9,10): fatal error C1083: No se puede abrir el archivo incluir: 'd3dx9.h': No such file or directory
+  main.cpp
+C:\Users\Agustín\Documents\Halo Multihack\Halo Multihack\SysIncludes.h(9,10): fatal error C1083: No se puede abrir el archivo incluir: 'd3dx9.h': No such file or directory
+  Menu.cpp
+C:\Users\Agustín\Documents\Halo Multihack\Halo Multihack\SysIncludes.h(9,10): fatal error C1083: No se puede abrir el archivo incluir: 'd3dx9.h': No such file or directory
+  Generando código...
