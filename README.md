@@ -2,9 +2,7 @@
 
 ![(Main GUI)](https://i.ibb.co/p08FDnk/n4kl8wfkpb931.png)
 
-It is a Loader for Halo Custom Edition.
-
-[ Attention ] - The game must be run in windowed mode. | To do this run the game with the Argument: (-window)
+It is a Multi-Cheat & Loader for Halo Custom Edition.
 
 [ How to use ]
 
