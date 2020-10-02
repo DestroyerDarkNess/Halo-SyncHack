@@ -14,3 +14,15 @@ C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\bin\Debug\Ha
 C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Debug\HaloCrashManager.exe
 C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Debug\HaloCrashManager.xml
 C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\HaloCrashManager\obj\Debug\HaloCrashManager.pdb
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\bin\Debug\HaloCrashManager.exe.config
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\obj\Debug\HaloCrashManager.exe
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\obj\Debug\HaloCrashManager.xml
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\obj\Debug\HaloCrashManager.pdb
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\bin\Debug\HaloCrashManager.exe
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\bin\Debug\HaloCrashManager.pdb
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\bin\Debug\HaloCrashManager.xml
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\obj\Debug\HaloCrashManager.About.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\obj\Debug\HaloCrashManager.Notify.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\obj\Debug\HaloCrashManager.Main.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\obj\Debug\HaloCrashManager.Resources.resources
+C:\Users\S4Lsalsoft\Documents\Github\Halo-SyncHack\CrashManager&Loader\HaloCrashManager\obj\Debug\HaloCrashManager.vbproj.GenerateResource.Cache

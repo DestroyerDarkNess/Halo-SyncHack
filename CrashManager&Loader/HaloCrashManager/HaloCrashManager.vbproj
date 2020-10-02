@@ -89,6 +89,7 @@
     <Compile Include="Core\HaloCrashHook.vb" />
     <Compile Include="Core\Injector.vb" />
     <Compile Include="Core\SetWindowState.vb" />
+    <Compile Include="Core\SetWindowStyle.vb" />
     <Compile Include="Core\WindowHook.vb" />
     <Compile Include="Main.Designer.vb">
       <DependentUpon>Main.vb</DependentUpon>

@@ -69,4 +69,29 @@
 
     End Sub
 
+#Region " No Windows Focus "
+
+    Protected Overrides ReadOnly Property ShowWithoutActivation As Boolean
+        Get
+            Return True
+        End Get
+    End Property
+
+    Private Const WS_EX_TOPMOST As Integer = &H8
+
+    Private Const WS_THICKFRAME As Integer = &H40000
+    Private Const WS_CHILD As Integer = &H40000000
+    Private Const WS_EX_NOACTIVATE As Integer = &H8000000
+    Private Const WS_EX_TOOLWINDOW As Integer = &H80
+
+    Protected Overrides ReadOnly Property CreateParams As CreateParams
+        Get
+            Dim createParamsA As CreateParams = MyBase.CreateParams
+            createParamsA.ExStyle = createParamsA.ExStyle Or WS_EX_TOPMOST Or WS_EX_NOACTIVATE Or WS_EX_TOOLWINDOW
+            Return createParamsA
+        End Get
+    End Property
+
+#End Region
+
 End Class

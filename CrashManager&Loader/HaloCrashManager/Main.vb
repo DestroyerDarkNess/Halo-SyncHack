@@ -5,9 +5,11 @@ Imports HaloCrashManager.DestroyerSDK
 Public Class Main
 
     Public Shared ProcessGame As String = "haloce.exe"
-
+    Public GameDir As String = My.Computer.FileSystem.SpecialDirectories.ProgramFiles & "\" & "Microsoft Games\Halo Custom Edition\haloce.exe"
     Private Sub Main_Load(sender As Object, e As EventArgs) Handles Me.Load
-       
+        If IO.File.Exists(GameDir) = True Then
+            TextBox1.Text = GameDir
+        End If
     End Sub
 
 #Region " Move Form "
@@ -60,7 +62,7 @@ Public Class Main
         If Retorn = False Then
             Xmove += 1
             PictureBox1.Location = New Point(Xmove, 0)
-            If Xmove = 400 Then
+            If Xmove = 572 Then
                 Retorn = True
             End If
         ElseIf Retorn = True Then
@@ -75,11 +77,13 @@ Public Class Main
 
         If p.Count = 1 Then
             CrashMonitor.Enabled = True
-            Label3.Text = "Status : Starting . . ."
             If My.Computer.FileSystem.FileExists(DLL_File) = True Then
                 Dim DestroyerResult As Boolean = Injector.InjectDLL(ProcessNameH, DLL_File)
                 If Not DestroyerResult = True Then
                     End
+                End If
+                If RadioButton2.Checked = True Then
+                    FullScreenEmulation(ProcessNameH)
                 End If
                 About.Close()
                 Me.Hide()
@@ -136,4 +140,55 @@ Public Class Main
 
 #End Region
 
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        If TextBox1.Text = "" Then
+            OpenFileDialog1.ShowDialog()
+        End If
+        If IO.File.Exists(TextBox1.Text) = True Then
+            Dim p As New Process
+            p.StartInfo.WorkingDirectory = (IO.Path.GetDirectoryName(TextBox1.Text))
+            p.StartInfo.FileName = IO.Path.GetFileName(TextBox1.Text)
+            p.StartInfo.Arguments = "-window"
+            p.Start()
+        End If
+    End Sub
+
+    Private Sub FullScreenEmulation(ByVal ProcessName As String)
+        If ProcessName.EndsWith(".exe", StringComparison.OrdinalIgnoreCase) Then ProcessName = ProcessName.Remove(ProcessName.Length - ".exe".Length)
+        Dim HWND As IntPtr = Process.GetProcessesByName(ProcessName).First.MainWindowHandle
+        For i As Integer = 0 To 2 ' Fix, two sender required
+            SetWindowStyle.SetWindowStyle(HWND, SetWindowStyle.WindowStyles.WS_BORDER)
+            SetWindowState.SetWindowState(HWND, SetWindowState.WindowState.Maximize)
+        Next
+        BringMainWindowToFront(ProcessName)
+    End Sub
+
+#Region " Set Focus "
+
+    <System.Runtime.InteropServices.DllImport("user32.dll")>
+    Private Shared Function SetForegroundWindow(ByVal hwnd As IntPtr) As Integer
+    End Function
+
+    Public Sub BringMainWindowToFront(ByVal processName As String)
+        Dim bProcess As Process = Process.GetProcessesByName(processName).FirstOrDefault()
+
+        If bProcess IsNot Nothing Then
+            SetForegroundWindow(bProcess.MainWindowHandle)
+        End If
+    End Sub
+
+#End Region
+
+    Private Sub OpenFileDialog1_FileOk(sender As Object, e As System.ComponentModel.CancelEventArgs) Handles OpenFileDialog1.FileOk
+        Dim dirp As String = OpenFileDialog1.FileName
+        If IO.File.Exists(dirp) = True Then
+            TextBox1.Text = dirp
+        Else
+            MsgBox("Invalid File, haloce.exe")
+        End If
+    End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        OpenFileDialog1.ShowDialog()
+    End Sub
 End Class
