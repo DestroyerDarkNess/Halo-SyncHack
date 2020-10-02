@@ -10,7 +10,7 @@ It is a Loader for Halo Custom Edition.
 
 *1) Run HaloCE Loader Synchack.*
 
-*2) Open HaloCE in Window Mode.*
+*2) Select haloce.exe in loader and Press Launch Button*
 
 Features :
         
