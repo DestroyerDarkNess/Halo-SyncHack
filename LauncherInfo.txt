@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+              <Home>
+                  <Anuncio1>
+                      <Title>Halo CE : Launcher v1.0</Title>
+                      <Icon></Icon>
+                      <Image></Image>
+                      <Description>El mejor y Unico en su tipo, Con herramientas Unicas.</Description>
+                  </Anuncio1>
+                    <Anuncio2>
+                      <Title>Halo CE : Launcher v1.0</Title>
+                      <Icon></Icon>
+                      <Image></Image>
+                      <Description>El mejor y Unico en su tipo, Con herramientas Unicas.</Description>
+                  </Anuncio2>
+                    <Anuncio3>
+                      <Title>Halo CE : Launcher v1.0</Title>
+                      <Icon></Icon>
+                      <Image></Image>
+                      <Description>El mejor y Unico en su tipo, Con herramientas Unicas.</Description>
+                  </Anuncio3>
+                    <Anuncio4>
+                      <Title>Halo CE : Launcher v1.0</Title>
+                      <Icon></Icon>
+                      <Image></Image>
+                      <Description>El mejor y Unico en su tipo, Con herramientas Unicas.</Description>
+                  </Anuncio4>
+              </signatures>
