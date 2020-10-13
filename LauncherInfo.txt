@@ -5,23 +5,27 @@
                       <Icon></Icon>
                       <Image></Image>
                       <Description>El mejor y Unico en su tipo, Con herramientas Unicas.</Description>
+                      <Link></Link>
                   </Anuncio1>
                     <Anuncio2>
                       <Title>Halo CE : Launcher v1.0</Title>
                       <Icon></Icon>
                       <Image></Image>
                       <Description>El mejor y Unico en su tipo, Con herramientas Unicas.</Description>
+                      <Link></Link>
                   </Anuncio2>
                     <Anuncio3>
                       <Title>Halo CE : Launcher v1.0</Title>
                       <Icon></Icon>
                       <Image></Image>
                       <Description>El mejor y Unico en su tipo, Con herramientas Unicas.</Description>
+                      <Link></Link>
                   </Anuncio3>
                     <Anuncio4>
                       <Title>Halo CE : Launcher v1.0</Title>
                       <Icon></Icon>
                       <Image></Image>
                       <Description>El mejor y Unico en su tipo, Con herramientas Unicas.</Description>
+                      <Link></Link>
                   </Anuncio4>
               </Home>
