@@ -1,1 +1,6 @@
-{"AppVersion":"1.0.0.0","Desc":"Fix All Bugs","Author":"S4Lsalsoft","Contact":" Discord : Destroyer#8328","DownUrl":"Https://www.google.com/"}
+{"AppVersion":"1.2.0.1","Desc":"The New Version Includes:
+
+    - Bugs fixed.
+    - Optimization of the application. Now it is faster!
+    - 50 Coins per Account Registration! Get Now.
+    - Community Enabled!","Author":"S4Lsalsoft","Contact":" Discord : Destroyer#8328 ","DownUrl":"https://toolslib.net/downloads/viewdownload/480-xylateware/"}
