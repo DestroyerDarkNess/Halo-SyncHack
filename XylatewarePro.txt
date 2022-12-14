@@ -1,6 +1,4 @@
 {"AppVersion":"1.3.0.3","Desc":"The New Version Includes:
-
-    - Bugs fixed. ☢ $
-    - Optimization of the application. Now it is faster! 🚀 $
-    - 50 Coins per Account Registration! Get Now. 🧧 $
-    - Community Enabled! 💌 $ ","Author":"S4Lsalsoft","Contact":" Discord : Destroyer#8328 ","DownUrl":"https://toolslib.net/downloads/viewdownload/480-xylateware/"}
+   $
+   - The application was remastered from 0. Now it is faster! 🚀 $
+   $ ","Author":"S4Lsalsoft","Contact":" Discord : Destroyer#8328 ","DownUrl":"https://toolslib.net/downloads/viewdownload/480-xylateware/"}
