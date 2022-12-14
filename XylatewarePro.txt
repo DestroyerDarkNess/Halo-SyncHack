@@ -1,4 +1,4 @@
-{"AppVersion":"1.2.0.1","Desc":"The New Version Includes:
+{"AppVersion":"1.2.0.3","Desc":"The New Version Includes:
 
     - Bugs fixed. ☢ $
     - Optimization of the application. Now it is faster! 🚀 $
